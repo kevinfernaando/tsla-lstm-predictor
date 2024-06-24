@@ -1,7 +1,6 @@
 absl-py==2.1.0
 aiohttp==3.9.3
 aiosignal==1.3.1
-altair==5.3.0
 annotated-types==0.6.0
 anyio==3.6.2
 appdirs==1.4.4
@@ -21,7 +20,6 @@ beautifulsoup4==4.11.2
 billiard==4.2.0
 bleach==6.0.0
 blinker==1.7.0
-bokeh==3.3.4
 bs4==0.0.1
 cachetools==5.3.3
 certifi==2024.2.2
@@ -84,7 +82,6 @@ ib-insync==0.9.86
 idna==3.6
 importlib-metadata==6.0.0
 install==1.3.5
-ipykernel==6.21.3
 ipython==8.11.0
 ipython-genutils==0.2.0
 ipywidgets==8.0.4
@@ -102,7 +99,6 @@ jupyter-console==6.6.3
 jupyter-events==0.6.3
 jupyter_client==8.0.3
 jupyter_core==5.2.0
-jupyter_server==2.4.0
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
@@ -110,7 +106,6 @@ keras==2.15.0
 kiwisolver==1.4.4
 langchain==0.1.9
 langchain-community==0.0.24
-langchain-core==0.1.27
 langsmith==0.1.10
 libclang==16.0.6
 lxml==4.9.3
