@@ -241,7 +241,6 @@ tldextract==5.1.2
 toml==0.10.2
 toolz==0.12.1
 tornado==6.4
-tpqoa==0.0.56
 tqdm==4.65.0
 traitlets==5.9.0
 trio==0.22.0
